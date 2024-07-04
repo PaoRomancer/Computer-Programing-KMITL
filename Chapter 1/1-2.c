@@ -4,6 +4,5 @@ int main(){
     printf("Hello, KMITL.\n");
     printf("Hello, Bangkok.\n");
     printf("Hello, Thailand.\n");
-
     return 0;
 }
