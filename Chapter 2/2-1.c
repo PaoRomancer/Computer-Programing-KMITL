@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  printf("%-40s%40s", "Computer", "Programming");
+    printf("%-40s%40s" , "Programming" ,"Computer");
 
-  return 0;
+    return 0;
 }
