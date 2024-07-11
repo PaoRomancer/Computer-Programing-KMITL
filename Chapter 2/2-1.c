@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Programming\t\t\t\t\t\t\t\tComputer");
-    return 0;
+  printf("%-40s%40s", "Computer", "Programming");
+
+  return 0;
 }
